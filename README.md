@@ -1,4 +1,4 @@
-
+![RAG Application]()
 [https://huggingface.co/spaces/ajoy0071998/chat-with-doctor]<br>
 SBERT Embedding Search System with Hugging Face and Gemini API<br>
 **Project Overview**<br>
