@@ -1,6 +1,6 @@
-[https://huggingface.co/spaces/ajoy0071998/chat-with-doctor]
-SBERT Embedding Search System with Hugging Face and Gemini API
-Project Overview
+[https://huggingface.co/spaces/ajoy0071998/chat-with-doctor]<br>
+SBERT Embedding Search System with Hugging Face and Gemini API<br>
+Project Overview<br>
 This project is designed to allow users to perform semantic search on a text dataset retrieved from Hugging Face using SBERT (Sentence-BERT) embeddings. The project also integrates the Gemini API for further content generation and structuring of the retrieved information. The user interacts with the system through a user-friendly Streamlit interface.
 
 Key Features:
