@@ -71,7 +71,7 @@ def main():
 
     user_query = st.text_input("Enter your query:")
 
-    api_key = 'AIzaSyCtts5f83aQs7R7tQWqixzVBGoITrPV2aA'
+    api_key = 'your_API_key'
 
     if st.button("Submit"):
         if user_query:
