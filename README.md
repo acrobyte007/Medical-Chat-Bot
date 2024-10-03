@@ -1,4 +1,4 @@
-![RAG Application]()
+![RAG Application](https://github.com/acrobyte007/Medical-Chat-Bot/blob/main/RAG%20application.PNG)
 [https://huggingface.co/spaces/ajoy0071998/chat-with-doctor]<br>
 SBERT Embedding Search System with Hugging Face and Gemini API<br>
 **Project Overview**<br>
